@@ -1,3 +1,19 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+# 
+# (c) Roberto Gambuzzi
+# Creato:          14/02/2013 11:20:46
+# Ultima Modifica: 14/02/2013 17:27:45
+# 
+# v 0.0.1.0
+# 
+# file: C:\Progetti\php4win_script\adatta_config.py
+# auth: Roberto Gambuzzi <gambuzzi@gmail.com>
+# desc: 
+# 
+# $Id: adatta_config.py 14/02/2013 17:27:45 Roberto $
+# --------------
+
 import re
 import os
 import sys
